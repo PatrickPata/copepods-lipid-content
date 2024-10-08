@@ -2,10 +2,5 @@ __pycache__/
 /.ipynb_checkpoints
 /fmaps_files
 copepods-lipid-content-0.1.0.zip
-/example_inputs_lowres
-/example_inputs
-/example_inputs_orig
-/example_segmentations
-/example_inputs
-/example_segmentations_lowres
-/example_segmentations_orig
+/images
+metadata.csv
