@@ -4,3 +4,6 @@ __pycache__/
 copepods-lipid-content-0.1.0.zip
 /images
 metadata.csv
+/models
+metadata_full.csv
+metadata_test.csv
