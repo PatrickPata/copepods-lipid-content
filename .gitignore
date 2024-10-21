@@ -7,3 +7,4 @@ metadata.csv
 /models
 metadata_full.csv
 metadata_test.csv
+/prediction_outputs
