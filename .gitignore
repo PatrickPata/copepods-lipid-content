@@ -8,3 +8,4 @@ metadata.csv
 metadata_full.csv
 metadata_test.csv
 /prediction_outputs
+*.png
